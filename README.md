@@ -28,3 +28,4 @@ Styling: Tailwind CSS
 
 Hosting: GitHub Pages / Netlify (optional future deployment)
 
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/9109785d-4e3b-4c68-9a3d-7784a7294a0c" />
